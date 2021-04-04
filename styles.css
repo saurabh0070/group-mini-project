@@ -1,0 +1,80 @@
+.heading-block{
+  position: fixed;
+  background-color: antiquewhite;
+  width: 100%;
+height: 200px;
+}
+
+.head{
+  position: absolute;
+  padding-left: 40%;
+}
+
+.subhead{
+  position: absolute;
+  padding-top: 50px;
+  padding-left: 42%;
+}
+
+.leader{
+  position: absolute;
+  padding-top: 110px;
+  padding-left: 34%;
+font-family: 'Pacifico', cursive;
+color: #088a83;
+}
+
+body{
+
+  margin: 0% 0% 10% 0%;
+}
+
+.headlogo{
+  position: absolute;
+  height: 195px;
+  width: 195px;
+  padding-left: 1100px;
+}
+
+.intro{
+  padding-top: 220px;
+  padding-left: 150px;
+  padding-right: 150px
+}
+
+.cooler-1{
+  height: 300px;
+  width: 300px;
+}
+
+.cooler-2{
+  height: 300px;
+  width: 300px;
+}
+
+.cooler-3{
+  height: 300px;
+  width: 300px;
+}
+
+.before{
+
+  font-family: 'Pacifico', cursive;
+
+}
+
+.after{
+
+  font-family: 'Pacifico', cursive;
+  padding-left: 610px;
+
+}
+
+.below-img{
+  padding-top: 90px;
+}
+
+.thank{
+  padding-left: 500px;
+  font-family: 'Pacifico', cursive;
+}
